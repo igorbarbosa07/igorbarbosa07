@@ -1,4 +1,4 @@
-### Olá, me chamo Igor Barbosa 👋
+### Olá, chamo-me Igor Barbosa 👋
 
 * Sou estudante do Curso de Análise e Desenvolvimento de Sistema pela Universidade Estácio de Sá. :computer:
 * Atualmente trabalho na empresa Infonet (CI Centro de Informações) como Webmaster.
